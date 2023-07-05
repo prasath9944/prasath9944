@@ -70,4 +70,4 @@
 <div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasath9944" width="600" height="200"/>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasath9944)](https://github.com/anuraghazra/github-readme-stats)
+
