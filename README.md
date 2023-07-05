@@ -22,7 +22,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="200"/>
 </div>
 <div align="center">
----------------------------------------------------------------------------------------------------------------------------------------------------
+<hr>
 </div>
 <br>
 ### :woman_technologist: About Me :
@@ -43,7 +43,7 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/prasath-k-084a46204/)](https://www.linkedin.com/in/prasath-k-084a46204/)
 </div>
 <div align="center">
----------------------------------------------------------------------------------------------------------------------------------------------------
+<hr>
 </div>
 <br>
 ### :hammer_and_wrench: Languages and Tools :
@@ -63,10 +63,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <div align="center">
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+<hr>
 </div>
 <br>
 ### :fire: My Stats :
+<br>
 <div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasath9944" width="600" height="200"/>
 </div>
