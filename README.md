@@ -5,7 +5,7 @@
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/prasath-k-084a46204/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"width="100" height="40"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://medium.com/@prasathks20">
     <img src="https://media4.giphy.com/media/Wq8i42KPEkv73G9Y4p/giphy.gif?cid=ecf05e47zmg5xgqou5dfqgonbeibetgmd1r992e5z9d2ufeg&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Youtube Badge"width="100" height="40"/>
   </a>
   <a href="your-twitter-URL">
