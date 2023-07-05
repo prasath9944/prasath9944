@@ -3,6 +3,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
   
 </div>
+<div id="badges">
+  <img src="https://www.linkedin.com/in/prasath-k-084a46204/" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+<br>
 
 - 👋 Hi, I’m Prasath K Working as a Full Stack Dotnet Developer in @Cognizant
 at Chennai,India.
@@ -17,13 +23,6 @@ at Chennai,India.
 ☺ I am Currently working on building my skills on Angular,Microservice Architecture,Exploring Data Science,Deep learning inDepth Intuition behind it,NLP.
 
 ☺ you can ping me:
-- <a href='https://www.linkedin.com/in/prasath-k-084a46204/'></a>
-- <a href='https://leetcode.com/prasathks20/'>LeetCode</a>
-- <a href='https://www.hackerrank.com/prasathks20'>HackerRank</a>
 - prasathks20@gmail.com
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
+
