@@ -39,14 +39,13 @@
 - :zap: I am Currently working on building my skills on Angular,Microservice Architecture,Exploring Data Science,Deep learning inDepth Intuition behind it,NLP.
 - :zap: Contributed End-End Machine Learning and Deeplearning pipeline with deployment on AWS.
 - :zap: Having good knowledge on Health Care Domain and worked
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/prasath-k-084a46204/)](https://www.linkedin.com/in/prasath-k-084a46204/)
 </div>
 <div align="center">
 <hr>
 </div>
 <br>
-### :hammer_and_wrench: Languages and Tools :
+<p>### :hammer_and_wrench: Languages and Tools :</p>
+<br>
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
