@@ -67,4 +67,4 @@
 </div>
 <br>
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/prasath9944
+https://github-readme-streak-stats.herokuapp.com/?user=prasath9944
