@@ -39,7 +39,7 @@
 - :zap: Contributed End-End Machine Learning and Deeplearning pipeline with deployment on AWS.
 - :zap: Having good knowledge on Health Care Domain and worked
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-URL](https://www.linkedin.com/in/prasath-k-084a46204/))
 </div>
 
 
