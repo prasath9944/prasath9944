@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://i.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.webp" alt="Twitter Badge" width="50"/>
+    <img src="https://i.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.webp" alt="Twitter Badge" width="100"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
