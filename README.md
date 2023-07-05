@@ -67,7 +67,7 @@
 </div>
 <br>
 ### :fire: My Stats :
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasath9944" width="600" height="200"/>
+<div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prasath9944" width="600" height="200"/>
 </div>
 
