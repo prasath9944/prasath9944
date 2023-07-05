@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://media4.giphy.com/media/Wq8i42KPEkv73G9Y4p/giphy.gif?cid=ecf05e47zmg5xgqou5dfqgonbeibetgmd1r992e5z9d2ufeg&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://i.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.webp" alt="Twitter Badge" width="100" height="50"/>
